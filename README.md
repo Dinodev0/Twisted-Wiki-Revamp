@@ -1,12 +1,15 @@
 # Twisted-Wiki-Revamp
 
 #Objective
+
 Create a customized wiki for the game Twisted on Roblox that offers more flexibility, better organization, and greater control over content compared to the Fandom platform.
 
 #Introduction
+
 Welcome to our new Twisted Roblox Wiki! Here, you'll find a robust and detailed platform developed to provide the best experience for players seeking comprehensive and up-to-date information about the game Twisted on Roblox.
 
 #Why Choose Our Wiki?
+
 1. Flexibility and Full Control
 Constant Updates:
 
