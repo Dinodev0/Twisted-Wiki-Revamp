@@ -68,7 +68,7 @@ Comparison with Fandom:
 | Interactivity |	Yes |	Yes |
 
 Conclusion
-
+ 
 Our Twisted Roblox Wiki is dedicated to providing the best experience for players, with detailed information, fast updates, and a distraction-free platform. We're committed to creating a collaborative and informed community. Join us and enjoy a reliable and comprehensive source of knowledge for all your Twisted game needs.
 
 #Join Us!
