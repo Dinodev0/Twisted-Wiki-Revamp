@@ -1,15 +1,15 @@
 # Twisted-Wiki-Revamp
 Change log last update
 
--Search Menu 
+Responsivity
 
-Now when you press the search bar it opens a searching menu ( esc to exit and ctrl i to enter) (and the search dont works lol)
+The website works in any screen width and height
 
--Bright Mode
+Working search menu [BETA]
 
-Now you can click on the theme button on the top right corner and its gonna switch the theme (the background is still in development)
+The search menu know works but its still in development
 
-Thats all :)
+NOTE FROM THE DEV: THE WEBSITE IS GETTING REMADE!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
