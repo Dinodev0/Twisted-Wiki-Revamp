@@ -6,13 +6,13 @@ Change log last update
 
 Responsivity
 
-The website works in any screen width and height
+The website is now EVEN MORE RESPONSIVE!
 
 Working search menu [BETA]
 
-The search menu know works but its still in development
+The search menu works but its still in development
 
-NOTE FROM THE DEV: THE WEBSITE IS GETTING REMADE!
+NOTE FROM DE DEV: Please call me if theres any issues :/ ( with the responsivity only )
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
